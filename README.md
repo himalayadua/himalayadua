@@ -6,13 +6,17 @@
 
 <h3 align="center">Senior Team Manager at R Systems | Senior Database Administrator | Ex Solution Architect at NICE</h3>
 
+<h3 align="left">Connect with me:</h3>
+
 - 👨‍💻 All of my projects are available at [https://github.com/himalayadua](https://github.com/himalayadua)
 
-- 📝 I regularly write articles on [https://www.readindialeadindia.com/](https://www.readindialeadindia.com/)
+- 📝 I regularly write articles on [https://www.readindialeadindia.com](https://www.readindialeadindia.com)
 
-- 📄 Know about my experiences [https://www.himalayadua.com/](https://www.himalayadua.com/)
+- 📄 Know about my experiences [https://www.himalayadua.com](https://www.himalayadua.com)
 
-<h3 align="left">Connect with me:</h3>
+- 😎 My Leetcode experience [https://leetcode.com/u/himalayadua](https://leetcode.com/u/himalayadua)
+
+- 🔥 My Book Reading journey [https://www.instagram.com/readindialeadindia](https://www.instagram.com/readindialeadindia)
 
 # 💫 About Me:
 🔭 I’m currently working on Machine Learning.<br>👯 I’m looking to collaborate on AI/ML computer vision projects.<br>🌱 I’m currently learning Algorithms and Data Structures.

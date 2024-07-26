@@ -32,8 +32,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=himalayadua&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Certifications
-                           |                          
-![](./certifications/Data_Analysis_with_Python_FreeCodeCamp.jpeg)  |  ![](./certifications/Machine_Learning_with_Python_FreeCodeCamp.jpeg)
+<p float="left">
+  <img src="/certifications/Data_Analysis_with_Python_FreeCodeCamp.jpeg" width="45%" />
+  <img src="/certifications/Machine_Learning_with_Python_FreeCodeCamp.jpeg" width="45%" /> 
+
+</p>
+
+![](./)
+![](./)
 ![](./certifications/Introduction_to_Kubernetes_SimpliLearn.png)
 ![](./certifications/SQL_Certification_Course_SimpliLearn.png)
 ![](./certifications/Data_Analytics_with_R_SimpliLearn.png)

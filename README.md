@@ -31,8 +31,27 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=himalayadua&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Certifications
+![](./certifications/Data Analysis with Python FreeCodeCamp.png)
+![](./certifications/Machine Learning with Python FreeCodeCamp.png)
+![](./certifications/Introduction to Kubernetes SimpliLearn.png)
+![](./certifications/SQL Certification Course SimpliLearn.png)
+![](./certifications/Data Analytics with R SimpliLearn.png)
+![](./certifications/Business Analytics with Excel SimpliLearn.png)
+![](./certifications/Foundations Programming Refresher SimpliLearn.png)
+![](./certifications/Python for Data Science SimpliLearn.png)
+![](./certifications/UC-dc325fb7-3bd3-4890-abaa-e701ec7d6241.png)
+![](./certifications/UC-dc748cf0-0946-4777-b092-7cc6b0d4051e.png)
+![](./certifications/plot.png)
+![](./certifications/plot.png)
+![](./certifications/plot.png)
+![](./certifications/plot.png)
+![](./certifications/plot.png)
+![](./certifications/plot.png)
+
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=himalayadua&icon=2&color=4)](https://github.com/himalayadua)
+

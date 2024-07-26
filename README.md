@@ -32,8 +32,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=himalayadua&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## ✍️ Certifications
-![](./certifications/Data_Analysis_with_Python_FreeCodeCamp.jpeg)
-![](./certifications/Machine_Learning_with_Python_FreeCodeCamp.jpeg)
+                           |                          
+![](./certifications/Data_Analysis_with_Python_FreeCodeCamp.jpeg)  |  ![](./certifications/Machine_Learning_with_Python_FreeCodeCamp.jpeg)
 ![](./certifications/Introduction_to_Kubernetes_SimpliLearn.png)
 ![](./certifications/SQL_Certification_Course_SimpliLearn.png)
 ![](./certifications/Data_Analytics_with_R_SimpliLearn.png)
@@ -42,9 +42,9 @@
 ![](./certifications/Python_for_Data_Science_SimpliLearn.png)
 ![](./certifications/UC-dc325fb7-3bd3-4890-abaa-e701ec7d6241.jpg)
 ![](./certifications/UC-dc748cf0-0946-4777-b092-7cc6b0d4051e.jpg)
-![](./certifications/plot.png)
-![](./certifications/plot.png)
-![](./certifications/plot.png)
+![](./certifications/Learn_Machine_Learning_and_AI_Udemy.png)
+![](./certifications/Machine_Learning_Basics_to_Advanced_Udemy.PNG)
+![](./certifications/Complete_MS_SQL_Server_Database_Design_Masterclass_Udemy.png)
 ![](./certifications/plot.png)
 ![](./certifications/plot.png)
 ![](./certifications/plot.png)

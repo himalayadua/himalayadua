@@ -43,19 +43,19 @@
   <img src="/certifications/Data_Analytics_with_R_SimpliLearn.png" width="32%" /> 
 </p>
 <p float="middle">
-  <img src="/certifications/Business_Analytics_with_Excel_SimpliLearn.png.png" width="32%" />
+  <img src="/certifications/Business_Analytics_with_Excel_SimpliLearn.png" width="32%" />
   <img src="/certifications/Foundations_Programming_Refresher_SimpliLearn.png" width="32%" /> 
   <img src="/certifications/Python_for_Data_Science_SimpliLearn.png" width="32%" /> 
 </p>
 <p float="middle">
   <img src="/certifications/UC-dc325fb7-3bd3-4890-abaa-e701ec7d6241.jpg" width="32%" />
   <img src="/certifications/UC-dc748cf0-0946-4777-b092-7cc6b0d4051e.jpg" width="32%" /> 
-  <img src="/certifications/Learn_Machine_Learning_and_AI_Udemy.png" width="32%" /> 
+  <img src="/certifications/Learn_Machine_Learning_and_AI_Udemy.PNG" width="32%" /> 
 </p>
 
 <p float="middle">
   <img src="/certifications/Machine_Learning_Basics_to_Advanced_Udemy.PNG" width="45%" />
-  <img src="/certifications/Complete_MS_SQL_Server_Database_Design_Masterclass_Udemy.png" width="45%" /> 
+  <img src="/certifications/Complete_MS_SQL_Server_Database_Design_Masterclass_Udemy.PNG" width="45%" /> 
 </p>
 
 

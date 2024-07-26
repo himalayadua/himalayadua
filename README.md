@@ -58,6 +58,12 @@
   <img src="/certifications/Complete_MS_SQL_Server_Database_Design_Masterclass_Udemy.PNG" width="45%" /> 
 </p>
 
+<p float="middle">
+  <img src="/certifications/Advanced_Python_Working_with_data_LinkedIn.PNG" width="32%" />
+  <img src="/certifications/AWS_Essential_training_for_Architects_LinkedIn.PNG" width="32%" /> 
+  <img src="/certifications/MS_Azure_ML_Fundamentals_LinkedIn.PNG" width="32%" /> 
+</p>
+
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

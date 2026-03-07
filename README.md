@@ -8,11 +8,11 @@
 - 🕸️ **[VENN](https://github.com/himalayadua/VENN)** - A research intelligence workspace that turns papers into navigable knowledge graphs
 - 📝 **[VEDIS](https://github.com/himalayadua/VEDIS)** - Personal Notes turned into drag-and-drop style gamified webapp
 - ⛓️ **[VISION](https://github.com/himalayadua/VISION)** - Turn everything you save into a knowledge graph that thinks for you
+- 🧭 **[VIA](https://github.com/himalayadua/VIA)** - VIA Canvas : intelligent infinite canvas that transforms how you capture, organize, and explore knowledge
 - 🔭 **[VIEW](https://github.com/himalayadua/VIEW)** - StrandsView — Visual Workflow Builder for multi-agent systems using the Strands Agent SDK
 - 🧠 **[VRAM](https://github.com/himalayadua/VRAM)** - Variable Reinforcement-Augmented Memory — Scalable Memory Management for LLM Agents via Small Learned Policies
 - 🤖 **[VALAR](https://github.com/himalayadua/VALAR)** - Experiments with Agentic AI
 - 🌐 **[VALE](https://github.com/himalayadua/VALE)** - Vale Browser — reimagines the browser, note-taking, and AI interaction through an infinite canvas interface
-- 🧭 **[VIA](https://github.com/himalayadua/VIA)** - VIA Canvas — intelligent infinite canvas that transforms how you capture, organize, and explore knowledge
 - ☁️ **[VIBE-Devops](https://github.com/himalayadua/VIBE-Devops)** - Agentic Cloud Architect for AWS — a multi-agent system that turns natural-language requirements into reviewable, safe AWS infrastructure
 
 

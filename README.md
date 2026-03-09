@@ -21,6 +21,10 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/himalayadua)
 
+![Coding Activity](certifications/Feb2026.png)
+
+![Lines Coded](certifications/Aug2025-Feb2026.png)
+
 ## 📰 Latest Blog Posts
 
 - [Latentmas — Latent Collaboration in LLMs](https://thebigdataguy.substack.com/p/latentmas-latent-collaboration-in)

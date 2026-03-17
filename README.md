@@ -6,6 +6,10 @@
 ## 🚀 Current Projects
 
 - 🕸️ **[VENN](https://github.com/himalayadua/VENN)** - A research intelligence workspace that turns papers into navigable knowledge graphs
+- 📊 **[ValueGraphs](https://github.com/himalayadua/ValueGraphs)** - VG sits above KG and CG: it consumes both to answer "What matters?" and "What should we do?"
+- 🔬 **[VOLI](https://github.com/himalayadua/VOLI)** - One App to Research it All — end-to-end autonomous AI Deep-Researcher and ML Scientist (Volitional)
+- ☁️ **[vAWSie](https://github.com/himalayadua/vAWSie)** - Visual-first, AI-native operating system for AWS — live topology, Nova co-pilot, workflows from description or diagram
+- ⚔️ **[VERSUS](https://github.com/himalayadua/VERSUS)** - AI blog series that compares competing models, architectures, and systems through interactive visuals
 - 📝 **[VEDIS](https://github.com/himalayadua/VEDIS)** - Personal Notes turned into drag-and-drop style gamified webapp
 - ⛓️ **[VISION](https://github.com/himalayadua/VISION)** - Turn everything you save into a knowledge graph that thinks for you
 - 🧭 **[VIA](https://github.com/himalayadua/VIA)** - VIA Canvas : intelligent infinite canvas that transforms how you capture, organize, and explore knowledge
@@ -21,9 +25,9 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/himalayadua)
 
-![Coding Activity](certifications/Feb2026.png)
+![Coding Activity](certifications/Mar2026.png)
 
-![Lines Coded](certifications/Aug2025-Feb2026.png)
+![Lines Coded](certifications/Aug2025-Mar2026.png)
 
 ## 📰 Latest Blog Posts
 

@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Himalaya Dua</h1>
 
-<h3 align="center">Gen AI & ML Engineer | MSCS @ Northeastern | Senior Software Engineer | Solutions Architect | Simplifying AI & Data Engineering, LLMs, NLP, CV | The BIG DATA guy</h3>
+<h3 align="center">SDE @ AWS | Gen AI & ML Engineer | MSCS @ Northeastern | Ex-Senior Software Engineer | Ex-Solutions Architect | Simplifying AI & Data Engineering, LLMs, NLP, CV | The BIG DATA guy</h3>
 
 ## 🚀 Current Projects
 
